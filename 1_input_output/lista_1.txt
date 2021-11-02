@@ -1,1 +1,40 @@
+
+
 Lista 1
+-----------------------------------------------------------------------------------------
+
+1 - Faça um algoritmo que apresente a mensagem “Olá, mundo!!!”
+
+2 - Faça um algoritmo que concatene as seguintes mensagens em uma só:  
+a) “Eu estou ”  
+b) “Fazendo “
+c) “concatenação!”
+
+3 - Faça um algoritmo que concatene as seguintes mensagens em uma só:
+ 
+a) “Olá, amigo! ”
+b) “Este texto tem uma vírgula dentro das aspas. ”
+c) “Mas eu sei que quando está dentro das aspas ela representa apenas uma vírgula. ”
+d) “E quando está fora representa o operador de concatenação.”
+ 
+4 - Faça um algoritmo que peça o nome do usuário e, em seguida, digite a mensagem: “Seja bem vindo, <nome do usuário>.
+ 
+5 - Faça um algoritmo que peça a idade do usuário e, em seguida, digite a mensagem: “Legal! Você tem <idade> anos!”
+
+6 - Faça um algoritmo que peça o nome do usuário, depois a idade do usuário e, em seguida,  
+digite a mensagem: “Legal, <nome do usuário>! Você tem <idade> anos!”.
+ 
+7 - Faça um algoritmo que peça a idade do usuário, depois o ano de nascimento do usuário,  
+e apresente a mensagem: “Você tem <idade> anos e nasceu em <ano de nascimento>!”
+ 
+8 - Faça um algoritmo que peça o ano de nascimento do usuário e apresente sua provável idade.
+
+9 - Faça um algoritmo que peça a idade do usuário e apresente seu provável ano de nascimento.
+
+10 - Faça um algoritmo que peça uma temperatura em graus celsius e apresente seu  
+respectivo valor em farenheits. O cálculo de conversão é: F= (9*C/5) + 32.
+
+11 - Faça um algoritmo que peça uma temperatura em graus farenheits e apresente seu respectivo valor em celsius.  
+O cálculo de conversão é: C= 5*(F-32)/9.
+
+
