@@ -1,0 +1,34 @@
+1 - Faça um algoritmo que peça o salário de um funcionário. Se o salário for maior do que R$ 10.000, o programa deverá apresentar a mensagem “você ganha bem!”
+
+2 - Faça um algoritmo que peça o salário de um funcionário. Se o salário for menor do que R$ 1.045, o algoritmo deve apresentar a mensagem “você ganha menos do que um salário mínimo”. Do contrário, o algoritmo deve apresentar a mensagem “você ganha pelo menos um salário mínimo”.
+
+3 - Faça um algoritmo que peça a temperatura corporal do usuário. Se a temperatura for menor que 37, apresentar a mensagem “você está sem febre”. Do contrário, apresentar a mensagem “você está com febre!”.
+
+4 - Faça um algoritmo que peça uma senha (apenas numérica). Se a senha for diferente de
+123456, apresentar a mensagem “senha não confere!”.
+
+5 - aça um algoritmo que peça uma senha (apenas numérica). Em seguida, o algoritmo deve pedir a  confirmação da senha. Se a senha repetida for igual à original, apresentar a mensagem “Senha criada com sucesso”. Do contrário, apresentar a mensagem “senha não confere”.
+
+6 - Faça um algoritmo que peça uma nota N1 e, em seguida, uma nota N2. O algoritmo deve
+calcular a média das duas notas e apresentar a mensagem “Aprovado”, caso o resultado seja
+maior ou igual a 6; ou “Reprovado”, caso o resultado seja inferior a 6.
+
+7 - Faça um algoritmo que peça o nome de um usuário. Em seguida, o algoritmo deve pedir o gênero do usuário (‘f’ para feminino e ‘m’ para masculino). Se o usuário for do sexo feminino, apresentar a mensagem “Olá, senhora <nome>“. Do contrário, apresentar a mensagem “Olá, senhor <nome>“. Observação: faça de conta que o usuário sempre digitará ‘f’ ou ‘m’. 
+
+8 - Faça um algoritmo que peça dois valores inteiros. Em seguida, o algoritmo deve apresentar
+primeiro o valor mais baixo e, depois, o valor mais alto. Observação: faça de conta que o
+usuário nunca digitará o mesmo valor nas duas vezes.
+
+9 - Em uma indústria de parafusos, um algoritmo determina se a produção está boa ou ruim.
+Uma produção é ruim quando o número de parafusos com defeito for maior do que 10% do
+total produzido. Faça um algoritmo que peça o número total de parafusos produzidos e, em
+seguida, peça o número de parafusos com defeito. O algoritmo, então, deve calcular o limite
+de peças com defeito permitidas (com base no total de peças produzidas e a porcentagem
+limite) e apresentar se a produção está boa ou ruim.
+
+10 - Faça um programa que peça um número inteiro e apresente a mensagem “é par” ou “é
+ímpar”. Dica: use o operador %. Este operador retorna o resto de uma divisão. Por exemplo:
+5%2 retornará o resto da divisão de 5 por 2. Então, 5%2=1 (porque 5 dividido por 2 é igual a 2 e resta 1). Por outro lado, 6%2=0, porque 6 dividido por 2 é igual a 3 e resta 0.
+
+
+
