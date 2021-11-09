@@ -1,0 +1,33 @@
+1. Faça um algoritmo de Pokedex que apresente 3 opções:
+1-Pikachu;
+2-Bulbassauro;
+3-Charmander.
+Caso o usuário escolha a opção 1, o algoritmo deve apresentar a mensagem “Pokémon
+elétrico da categoria rato”.
+Caso o usuário escolha a opção 2, o algoritmo deve apresentar a mensagem “Pokémon
+de grama da categoria semente”.
+Caso o usuário escolha a opção 3, o algoritmo deve apresentar a mensagem “Pokémon
+de fogo da categoria lagarto”.
+Caso o usuário escolha outra opção, o algoritmo deve apresentar a mensagem
+“Pokémon não cadastrado. Há 890 Pokémons! Temos que pegar!”
+
+2. Faça um algoritmo que apresente as seguintes opções de menu:
+A- Avião
+B- Carro
+C- Cruzeiro
+Caso o usuário digite A, o algoritmo deve apresentar a mensagem “É mais rápido!”
+Caso o usuário digite B, o algoritmo deve apresentar a mensagem “É mais barato!”
+Caso o usuário digite C, o algoritmo deve apresentar a mensagem “É mais bonito!”
+
+3. Faça um algoritmo que apresente o seguinte menu:
+1-Calcular a área de um retângulo;
+2-Calcular a área de um círculo;
+3-Calcular a área de um triângulo.
+Conforme a opção, o algoritmo deverá pedir os respectivos valores (altura e largura
+para retângulo, altura e base para o triângulo e raio para círculo). As fórmulas para os
+respectivos cálculos são:
+
+4. Faça um algoritmo que peça o mês do ano (de 1 a 12). O algoritmo deve apresentar a
+mensagem de quantos dias o mês tem, ou “mês inválido”, caso digite um mês inválido.
+
+
