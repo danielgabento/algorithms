@@ -1,0 +1,31 @@
+
+
+1. Faça um algoritmo que apresente os valores de 1 a 10. 
+
+2. Faça um algoritmo que apresente os valores de 10 a 1.
+
+3. Faça um algoritmo que apresente os valores de 5 a 15.
+
+4. Faça um algoritmo que apresente os valores de 15 a 5.
+
+5. Faça um algoritmo que apresente os valores pares de 1 a 10.
+
+6. Faça um algoritmo que apresente os valores ímpares de 1 a 10.
+
+7. Faça um algoritmo que peça um número positivo maior que 0 e
+apresente os valores de 1 a este valor digitado.
+
+8. Faça um algoritmo que peça um número menor que 10 e
+apresente os valores deste número digitado a 10. Por exemplo, se
+o usuário digitar 8, deverá apresentar os valores: 8, 9 e 10.
+
+9. Faça um algoritmo que peça um número inicial e um número
+final. Em seguida, deve ser apresentada a contagem do número
+inicial ao número final. Suponha que o número inicial é sempre
+menor que o final.
+
+10. Faça um algoritmo que peça um número inicial e um número
+final. Em seguida, deve ser apresentada a contagem do número
+inicial ao número final. Se o número inicial for menor que o final, então a contagem será em ordem crescente. Do contrário, a contagem deverá ser em ordem decrescente. Portanto, se o usuário digitar primeiro 2, depois 5, deverá ser apresentado: 2, 3, 4 e 5.
+Mas se o usuário digitar primeiro 5, depois 2, deverá ser apresentado: 5, 4, 3, 2 e 1.
+
