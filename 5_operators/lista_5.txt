@@ -1,0 +1,70 @@
+1. Faça um programa que peça para o usuário digitar um número entre 1 e 6 (inclusive). Se o
+valor digitado estiver no intervalo, apresentar a mensagem “Valor digitado com sucesso”. Do
+contrário, apresentar a mensagem “Valor fora do intervalo permitido”.
+
+2. Faça um programa que peça para o usuário digitar um número inferior a 1 ou superior a 6. Se
+o valor digitado estiver correto, apresentar a mensagem “Valor digitado com sucesso”. Do
+contrário, apresentar a mensagem “Valor não pode estar entre 1 e 6”.
+
+3. Faça um programa que peça a idade do usuário. Se ele tiver entre 18 e 65 anos, apresentar a
+mensagem: “Você é obrigado a votar”. Do contrário, apresentar a mensagem: “você não é
+obrigado a votar”.
+
+4. Faça um programa que peça três lados de um triângulo (pode ser apenas números inteiros).
+O programa deve apresentar se os lados apresentados formam ou não um triângulo. As
+mensagens devem ser: “é um triângulo” ou “não é um triângulo”. Para saber se é possível criar
+um triângulo, a regra é: cada lado precisa ser menor que a soma dos outros dois lados (do
+contrário, o triângulo não fecha). Veja a explicação ilustrada abaixo:
+Repare que o lado B do desenho não respeita a regra, porque B > A + C. Por isso, não tem como
+o triângulo ser fechado
+
+Mas no desenho a seguir, é possível montar um triângulo:
+Isso porque:
+• A < B + C
+• B < A + C
+• C < A + B
+
+5. Imagine um parque infantil. Faça um programa que peça a altura do usuário e a idade.
+a. Se tiver altura menor que 1,6m, pode entrar no parque. Neste caso:
+i. Se tiver menos ou 5 anos, escreva a mensagem: “Pode brincar no pula-pula e
+Casinha”;
+ii. Se tiver entre 5 e 8 anos, escreva a mensagem: “Pode brincar na prancha do pirata
+e piscina de bolinhas”.
+iii. Se tiver mais de 8 anos, escreva a mensagem: “Pode brincar de pebolim, pingpong
+e basquete”.
+b. Se tiver altura maior ou igual a 1,6m, escreva a mensagem: “Você é muito grande para
+entrar no parque”. 
+
+6. Imagine um problema de gerenciamento de fila de um banco que emite senhas para aguardar
+na fila. Faça um programa que:
+a. Peça o número da senha para o usuário;
+b. Apresente o menu 1-Prioridade; 2-Aposentado; 3-Comum.
+c. Se o número da senha for menor que 100, o programa deve apresentar a mensagem:
+“aguarde para ser atendido”.
+d. Senão, o programa deve apresentar uma mensagem, conforme a opção:
+i. Se for 1, “Você será reagendado para amanhã”;
+ii. Se for 2, “Você será reagendado para depois de amanhã”;
+iii. Se for 3, “Você deve tentar outro dia”.
+
+7. Faça um programa que apresente o menu:
+1- Conversão de temperatura
+2-Conversão de distância
+Se o usuário escolher a opção 1, apresentar o menu:
+1-Converter Celsius para Farenheit
+2- Converter Farenheit para Celsius
+3-Converter Celsius para Kelvin
+O programa deverá, então, pedir uma temperatura, realizar a conversão escolhida e
+apresentar a mensagem com o valor convertido.
+Se o usuário escolher a opção 2 do primeiro menu, conversão da distância, apresentar o menu:
+1-Converter km para milhas
+2-Converter milhas para km
+Então, o programa deverá realizar a respectiva conversão e apresentar a mensagem com
+o valor convertido.
+Os cálculos para conversão são:
+• Farenheit = (9*Celsius/5) + 32
+• Celsius = 5*(Farenheit-32)/9
+• Kelvin = Celsius + 273
+• Milha = km * 0.62137
+• Km = milha / 0.62137
+
+
