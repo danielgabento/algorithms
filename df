@@ -1,0 +1,144 @@
+[33mcommit b03471483a13a622f0e5cc868b1ace3202d1c519[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mnew[m[33m)[m
+Author: danielgabento <danielgabento@gmail.com>
+Date:   Sat Apr 8 15:01:22 2023 -0300
+
+    Exercícios de revisão atualizados
+
+[33mcommit 873eff13118cc9f69404f8cdcb87ef3dd7dde707[m
+Author: danielgabento <danielgabento@gmail.com>
+Date:   Sat Apr 8 12:40:39 2023 -0300
+
+    teste
+
+[33mcommit 66f7b00c11421b84113058d2c50b321b04248407[m
+Author: Daniel <49733005+danielgabento@users.noreply.github.com>
+Date:   Sat Apr 8 11:41:18 2023 -0300
+
+    Create README.md
+
+[33mcommit acfe6774811b5f2fd830e0cc7b32702792dbe887[m
+Author: danielgabento <danielgabento@gmail.com>
+Date:   Sat Nov 13 12:17:58 2021 -0300
+
+    update
+
+[33mcommit 30e1aae69c5115ee1031f5f094709a729efb95f1[m
+Author: danielgabento <danielgabento@gmail.com>
+Date:   Sat Nov 13 12:17:48 2021 -0300
+
+    update
+
+[33mcommit d96bec5d9f980fbb83e005ef8dfda958665cb438[m
+Author: danielgabento <danielgabento@gmail.com>
+Date:   Mon Nov 8 21:15:03 2021 -0300
+
+    update
+
+[33mcommit 50e4ec747ab410213647a3dfbbb3f6c3ca30487c[m
+Author: danielgabento <danielgabento@gmail.com>
+Date:   Sun Nov 7 16:00:56 2021 -0300
+
+    update
+
+[33mcommit adfdd0c08c60e67fdb8e0712eb90ccfddfb6646d[m
+Author: danielgabento <danielgabento@gmail.com>
+Date:   Sun Nov 7 13:57:13 2021 -0300
+
+    update
+
+[33mcommit b8d9fe98e220c82571dff0a1f473b8dda8a28938[m
+Author: danielgabento <danielgabento@gmail.com>
+Date:   Sun Nov 7 10:40:28 2021 -0300
+
+    update
+
+[33mcommit 712894ab4e631333b531c5626bf15fd98011246c[m
+Author: danielgabento <danielgabento@gmail.com>
+Date:   Sat Nov 6 18:08:59 2021 -0300
+
+    update 2
+
+[33mcommit 211e940c370c0747ef678d0db073ad24b504866b[m
+Author: danielgabento <danielgabento@gmail.com>
+Date:   Tue Nov 2 13:59:15 2021 -0300
+
+    changes in 1
+
+[33mcommit b9438cfb34b1432472ef71119fc153e5e5cfd4ba[m
+Author: Daniel <49733005+danielgabento@users.noreply.github.com>
+Date:   Tue Nov 2 13:22:17 2021 -0300
+
+    Delete teste_2.c
+
+[33mcommit 01b13a5a3ddae6d1f6f10ba9cb523208143d2251[m
+Author: Daniel <49733005+danielgabento@users.noreply.github.com>
+Date:   Tue Nov 2 13:21:52 2021 -0300
+
+    Delete teste.c
+
+[33mcommit 22dda21b6b7b187c2c1f76079f73c395dfb100c9[m
+Author: danielgabento <danielgabento@gmail.com>
+Date:   Tue Nov 2 13:20:58 2021 -0300
+
+    new folder
+
+[33mcommit 6fbc5b515816cafd84c0f2e6fb0345b12dc52b7a[m
+Merge: 51c4d0e ebba6e1
+Author: danielgabento <danielgabento@gmail.com>
+Date:   Tue Nov 2 13:16:26 2021 -0300
+
+    Merge branch 'main' of https://github.com/danielgabento/algorithms
+
+[33mcommit 51c4d0e66d6a3845a4d16ff8d1fb5c16b46e5456[m
+Author: danielgabento <danielgabento@gmail.com>
+Date:   Tue Nov 2 13:15:52 2021 -0300
+
+    new folder
+
+[33mcommit ebba6e1014deb7b24b6ae897fe3cd6fb76b2ebeb[m
+Author: Daniel <49733005+danielgabento@users.noreply.github.com>
+Date:   Tue Nov 2 13:02:20 2021 -0300
+
+    Delete 1_input_output.txt
+
+[33mcommit 418a8b8e2448ce1d3d0e915e7e91bc593b8a8c8c[m
+Author: danielgabento <danielgabento@gmail.com>
+Date:   Tue Nov 2 12:56:27 2021 -0300
+
+    new folder
+
+[33mcommit 0088a7734724b97bfbbbf349c25f9b700b2d3fcb[m
+Author: danielgabento <danielgabento@gmail.com>
+Date:   Tue Nov 2 12:55:45 2021 -0300
+
+    new folder
+
+[33mcommit 87bdaec2a57b0f8df42d63090da2b5b68fa0030b[m
+Author: danielgabento <danielgabento@gmail.com>
+Date:   Tue Nov 2 12:39:55 2021 -0300
+
+    teste
+
+[33mcommit 6dcda0e2013d322e81c518ac2e8b9ea435520d37[m
+Author: Daniel <49733005+danielgabento@users.noreply.github.com>
+Date:   Tue Nov 2 12:19:39 2021 -0300
+
+    Delete .vscode directory
+
+[33mcommit a4432237eb43e062f0ac650336215a5631ec5dbb[m
+Author: danielgabento <danielgabento@gmail.com>
+Date:   Tue Nov 2 12:17:07 2021 -0300
+
+    teste
+
+[33mcommit b5900e5a968c9a30fb47ce12b962feb5c490cee4[m
+Author: Daniel <49733005+danielgabento@users.noreply.github.com>
+Date:   Tue Nov 2 12:12:29 2021 -0300
+
+    Create 1_input_output.txt
+
+[33mcommit f9d44f7d49f681015c22fb0aed2ac935af0a7b74[m
+Author: Daniel <49733005+danielgabento@users.noreply.github.com>
+Date:   Tue Nov 2 11:43:54 2021 -0300
+
+    Initial commit
