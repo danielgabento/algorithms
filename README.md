@@ -1,2 +1,2 @@
 # algorithms
-Repository created for sharing codes from algorithms classes
+Repository created to share code from the algorithms and programming techniques classes
